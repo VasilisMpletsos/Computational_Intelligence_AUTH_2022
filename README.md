@@ -1,4 +1,4 @@
-# Computational_Intelligence_AUTH_2022
+# Computational Intelligence AUTH 2022
 
 This is the assigment for the Computational Intelligence Lecture in **MSc for Advanced Computer and Telecommunications Systems**.
 
